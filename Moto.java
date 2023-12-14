@@ -1,0 +1,9 @@
+package Heranca;
+
+public class Moto extends Veiculo {
+	public Moto(String _marca, Double _valor, String _modelo, String _dono) {
+		super(_marca, _valor, _modelo, _dono);
+	}
+	public Boolean motorizada;
+	public String cilindradas;
+}
