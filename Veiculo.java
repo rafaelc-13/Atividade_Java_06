@@ -1,6 +1,6 @@
 package Heranca;
 
-public class Veiculo{
+public abstract class Veiculo{
 	public String marca;
 	public Double valor;
 	public String modelo;
